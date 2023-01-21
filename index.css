@@ -30,26 +30,20 @@ body {
     align-items: center;
     transform: translate(-50%, -50%);
     z-Index: 5;
+    background: rgba(0, 0, 0, 0.5);
+    color:rgb(255,255,255,0.8);
 }
 
 .cards:nth-child(4) {
-    background: rgba(0, 0, 0);
-    color:rgb(255,255,255,0.8);
     transform: rotate(10deg) translate(-55%, -40%);
 }
 .cards:nth-child(3) {
-    background: rgba(0, 0, 0);
-    color:rgb(255,255,255,0.8);
     transform: rotate(-15deg) translate(-30%, -60%);
 }
 .cards:nth-child(2) {
-    background: rgba(0, 0, 0);
-    color:rgb(255,255,255,0.8);
     transform: rotate(5deg) translate(-50%, -50%);
 }
 .cards:nth-child(1) {
-    background: rgba(0, 0, 0);
-    color:rgb(255,255,255,0.8);
     transform: rotate(-5deg) translate(-50%, -50%);
 }
 
