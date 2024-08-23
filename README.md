@@ -5,4 +5,3 @@ Hey, it's Soumya here.
   - Game Development
   - Board Games
 
-<img src="https://github-readme-stats.vercel.app/api?username=ssn34&&show_icons=true&theme=onedark&hide_border=true" />
